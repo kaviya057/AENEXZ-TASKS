@@ -1,0 +1,16 @@
+username,followers,posts,engagement_rate,verified,avg_likes,category
+emma_watson,3500000,245,4.2,True,147000,entertainment
+tech_daily,890000,512,2.1,False,18700,tech
+travel_vibes,1200000,384,3.5,True,42000,travel
+fitness_coach,650000,289,5.1,False,33150,fitness
+foodie_adventures,2100000,678,2.8,True,58800,food
+photography_pro,1450000,411,4.7,True,68150,photography
+makeup_guru,2800000,523,3.9,True,109200,beauty
+music_producer,950000,156,6.2,False,58900,music
+nature_explorer,1750000,445,3.3,False,57750,nature
+style_insider,1320000,389,4.1,True,54120,fashion
+gaming_hub,2200000,687,2.7,False,59400,gaming
+wellness_coach,880000,267,5.3,True,46640,health
+art_studio,640000,234,4.6,False,29440,art
+coffee_lover,1100000,501,2.9,True,31900,lifestyle
+business_tips,1550000,423,3.8,False,58900,business
